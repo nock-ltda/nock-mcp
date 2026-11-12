@@ -1,6 +1,6 @@
 {
-  "name": "nock",
-  "displayName": "Nock",
+  "name": "nock-prospecting",
+  "displayName": "Nock B2B Prospecting",
   "version": "1.0.0",
   "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace.",
   "author": {
@@ -10,11 +10,15 @@
   },
   "homepage": "https://usenock.com/mcp",
   "repository": "https://github.com/nock-ltda/nock-mcp",
-  "documentationUrl": "https://usenock.com/mcp",
-  "supportUrl": "https://usenock.com/contact",
-  "privacyPolicyUrl": "https://usenock.com/privacy",
-  "termsOfServiceUrl": "https://usenock.com/terms",
   "license": "MIT",
-  "keywords": ["sales", "prospecting", "b2b", "lead-generation", "enrichment", "brazil", "cnpj"],
+  "keywords": [
+    "sales",
+    "prospecting",
+    "b2b",
+    "lead-generation",
+    "enrichment",
+    "brazil",
+    "cnpj"
+  ],
   "icon": "./logo.png"
 }

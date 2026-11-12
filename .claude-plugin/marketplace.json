@@ -8,7 +8,7 @@
   "description": "Nock for Claude Code: Brazilian B2B prospecting from your Nock workspace.",
   "plugins": [
     {
-      "name": "nock",
+      "name": "nock-prospecting",
       "source": "./plugins/nock",
       "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace.",
       "category": "sales",

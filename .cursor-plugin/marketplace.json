@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "nock",
+      "name": "nock-prospecting",
       "source": "plugins/nock",
       "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace."
     }

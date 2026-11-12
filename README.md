@@ -31,7 +31,7 @@ the dashboard.
 | Claude (claude.ai, desktop, mobile) | Settings, Connectors, Add custom connector, paste the URL |
 | ChatGPT | Settings, developer mode, create a connector with the URL |
 | Claude Code | `claude mcp add --transport http nock https://api.usenock.com/mcp`, then `/mcp` to sign in |
-| Claude Code plugin | `/plugin marketplace add nock-ltda/nock-mcp`, then `/plugin install nock@nock` |
+| Claude Code plugin | `/plugin marketplace add nock-ltda/nock-mcp`, then `/plugin install nock-prospecting@nock` |
 | Cursor | the button above, or `{"mcpServers":{"nock":{"url":"https://api.usenock.com/mcp"}}}` in `mcp.json` |
 | VS Code | the button above |
 | Codex | `codex mcp add nock --url https://api.usenock.com/mcp` |
