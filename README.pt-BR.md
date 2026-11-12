@@ -2,7 +2,7 @@
   <a href="https://usenock.com/mcp">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/header-pt-dark.svg">
-      <img alt="Nock. A pessoa certa, no momento certo. O servidor MCP da Nock: prospecção B2B no Brasil pelo Claude, ChatGPT, Cursor e outros clientes." src="assets/header-pt-light.svg" width="920">
+      <img alt="Nock. Deixe a Nock encontrar seu próximo cliente. O servidor MCP da Nock: prospecção B2B no Brasil pelo Claude, ChatGPT, Cursor e outros clientes." src="assets/header-pt-light.svg" width="920">
     </picture>
   </a>
 </p>
