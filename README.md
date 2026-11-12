@@ -47,12 +47,12 @@ card). Calls spend your workspace's credits, as in the dashboard.
   </picture>
 </p>
 
-### <img src="assets/clients/claude.svg" width="22" height="22" align="top" alt=""> Claude
+### <img src="assets/clients/claude.svg" width="26" height="26" align="top" alt=""> Claude
 
 claude.ai, desktop and mobile: **Settings → Connectors → Add custom connector**, paste
 the server URL and sign in with your Nock account.
 
-### <img src="assets/clients/claude-code.svg" width="22" height="22" align="top" alt=""> Claude Code
+### <img src="assets/clients/claude-code.svg" width="26" height="26" align="top" alt=""> Claude Code
 
 As a plugin, from this repository's marketplace:
 
@@ -69,19 +69,19 @@ claude mcp add --transport http nock https://api.usenock.com/mcp
 
 Then run `/mcp` and sign in.
 
-### <img src="assets/clients/chatgpt.svg" width="22" height="22" align="top" alt=""> ChatGPT
+### <img src="assets/clients/chatgpt.svg" width="26" height="26" align="top" alt=""> ChatGPT
 
 **Settings**, turn on developer mode, create a connector with the server URL and sign
 in with your Nock account.
 
-### <img src="assets/clients/codex.svg" width="22" height="22" align="top" alt=""> Codex
+### <img src="assets/clients/codex.svg" width="26" height="26" align="top" alt=""> Codex
 
 ```
 codex mcp add nock --url https://api.usenock.com/mcp
 codex mcp login nock
 ```
 
-### <img src="assets/clients/cursor.svg" width="22" height="22" align="top" alt=""> Cursor
+### <img src="assets/clients/cursor.svg" width="26" height="26" align="top" alt=""> Cursor
 
 Use the **Add to Cursor** button above, or put this in `mcp.json`:
 
@@ -89,18 +89,18 @@ Use the **Add to Cursor** button above, or put this in `mcp.json`:
 { "mcpServers": { "nock": { "url": "https://api.usenock.com/mcp" } } }
 ```
 
-### <img src="assets/clients/vscode.svg" width="22" height="22" align="top" alt=""> VS Code
+### <img src="assets/clients/vscode.svg" width="26" height="26" align="top" alt=""> VS Code
 
 Use the **Install in VS Code** button above (GitHub Copilot agent mode), then sign in
 with your Nock account.
 
-### <img src="assets/clients/gemini-cli.svg" width="22" height="22" align="top" alt=""> Gemini CLI
+### <img src="assets/clients/gemini-cli.svg" width="26" height="26" align="top" alt=""> Gemini CLI
 
 ```
 gemini extensions install https://github.com/nock-ltda/nock-mcp
 ```
 
-### <img src="assets/clients/windsurf.svg" width="22" height="22" align="top" alt=""> Windsurf
+### <img src="assets/clients/windsurf.svg" width="26" height="26" align="top" alt=""> Windsurf
 
 In `mcp_config.json`:
 
@@ -108,7 +108,7 @@ In `mcp_config.json`:
 { "mcpServers": { "nock": { "serverUrl": "https://api.usenock.com/mcp" } } }
 ```
 
-### <img src="assets/clients/zed.svg" width="22" height="22" align="top" alt=""> Zed
+### <img src="assets/clients/zed.svg" width="26" height="26" align="top" alt=""> Zed
 
 In settings:
 
