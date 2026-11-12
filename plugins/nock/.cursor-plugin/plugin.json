@@ -1,0 +1,15 @@
+{
+  "name": "nock",
+  "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nock",
+    "email": "contato@usenock.com"
+  },
+  "homepage": "https://usenock.com/mcp",
+  "repository": "https://github.com/nock-ltda/nock-mcp",
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "b2b", "lead-generation", "enrichment", "brazil", "cnpj"],
+  "logo": "logo.png",
+  "mcpServers": "mcp.json"
+}

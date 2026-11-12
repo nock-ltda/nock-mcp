@@ -1,0 +1,17 @@
+{
+  "name": "nock",
+  "owner": {
+    "name": "Nock",
+    "email": "contato@usenock.com"
+  },
+  "metadata": {
+    "description": "Nock for Cursor: Brazilian B2B prospecting from your Nock workspace."
+  },
+  "plugins": [
+    {
+      "name": "nock",
+      "source": "plugins/nock",
+      "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace."
+    }
+  ]
+}

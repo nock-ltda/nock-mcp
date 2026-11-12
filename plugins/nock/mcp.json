@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "nock": {
+      "url": "https://api.usenock.com/mcp"
+    }
+  }
+}

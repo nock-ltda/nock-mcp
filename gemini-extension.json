@@ -1,0 +1,11 @@
+{
+  "name": "nock",
+  "version": "1.0.0",
+  "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach, from your Nock workspace.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "nock": {
+      "httpUrl": "https://api.usenock.com/mcp"
+    }
+  }
+}

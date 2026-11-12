@@ -1,0 +1,36 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.usenock/nock",
+  "title": "Nock",
+  "description": "Brazilian B2B prospecting: buying signals, company and people search, enrichment and outreach.",
+  "version": "1.0.0",
+  "websiteUrl": "https://usenock.com/mcp",
+  "repository": {
+    "url": "https://github.com/nock-ltda/nock-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://usenock.com/brand/icon-dark.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "800x800"
+      ],
+      "theme": "light"
+    },
+    {
+      "src": "https://usenock.com/brand/icon-light.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "800x800"
+      ],
+      "theme": "dark"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.usenock.com/mcp"
+    }
+  ]
+}
