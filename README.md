@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://usenock.com/mcp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg">
-      <img alt="Nock. A pessoa certa, no momento certo. The Nock MCP server: B2B prospecting in Brazil from Claude, ChatGPT, Cursor and other clients." src="assets/header-en-light.svg" width="920">
-    </picture>
+    <img alt="Nock. A pessoa certa, no momento certo. The Nock MCP server: B2B prospecting in Brazil from Claude, ChatGPT, Cursor and other clients." src="assets/header-en-light.svg" width="920">
   </a>
 </p>
 
