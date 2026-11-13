@@ -29,4 +29,4 @@ https://usenock.com/mcp
 - Docs: https://usenock.com/mcp
 - Privacy: https://usenock.com/privacy
 - Terms: https://usenock.com/terms
-- Support: https://usenock.com/contact, contato@usenock.com
+- Support: https://usenock.com/contact (or e-mail contato@usenock.com)
